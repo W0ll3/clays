@@ -20,6 +20,6 @@ Trennlinie
     </header>
 ```
 
-- [ ] todo liste
-- essen
-- kaufen
+- [x] todo liste
+- [x] essen
+- [ ] kaufen
