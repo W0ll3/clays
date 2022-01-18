@@ -19,3 +19,5 @@ Trennlinie
     </nav>
     </header>
 ```
+- [ ] todo nicht erfüllt
+- [x] shopping 
