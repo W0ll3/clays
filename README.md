@@ -22,4 +22,4 @@ Trennlinie
 
 - [x] todo liste
 - [x] essen
-- [ ] kaufen
+- [x] kaufen
