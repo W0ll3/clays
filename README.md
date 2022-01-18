@@ -19,7 +19,3 @@ Trennlinie
     </nav>
     </header>
 ```
-
-- [x] todo liste
-- [x] essen
-- [x] kaufen
